@@ -3,7 +3,8 @@
 #### Exercise such as convolution in image processing, gaussian filter, sobel edge detection filter.
 
 
-# YOUR PROJECT TITLE
+# Word50
 #### Video Demo:  <URL HERE>
-#### Description:
-TODO
+#### Description: 
+This is a game inspired by a childhood online web game of mine called Groword from Viwawa. 
+Unfortunately, they have discontinued their web games. 
